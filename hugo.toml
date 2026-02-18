@@ -1,0 +1,5 @@
+theme = 'PaperMod'
+title = 'Simple gadget life'
+
+[params]
+ShowBreadCrumbs = false

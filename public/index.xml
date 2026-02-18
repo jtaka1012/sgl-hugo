@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Simple gadget life</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Simple gadget life</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feel So - 感情記録・ジャーナリングとAIによる分析</title>
+      <link>//localhost:1313/feelso/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0900</pubDate>
+      <guid>//localhost:1313/feelso/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;FeelSo は、感情を記録するためのジャーナリング・日記アプリです。&lt;br&gt;
+入力しやすさを重視し、記録する感情は 6 種類に絞られています。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/feelso/IMG_2290-472x1024.png&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/feelso/IMG_2292-472x1024.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;記録できる感情6種類&#34;&gt;記録できる感情（6種類）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;幸せ&lt;/li&gt;
+&lt;li&gt;興奮&lt;/li&gt;
+&lt;li&gt;感謝&lt;/li&gt;
+&lt;li&gt;怒り&lt;/li&gt;
+&lt;li&gt;悲しい&lt;/li&gt;
+&lt;li&gt;不安&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主な機能&#34;&gt;主な機能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;感情記録のカレンダー表示&lt;/li&gt;
+&lt;li&gt;CSV エクスポート&lt;/li&gt;
+&lt;li&gt;AI 分析による振り返りサポート&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ai分析でできること&#34;&gt;AI分析でできること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;感情の整理&lt;/li&gt;
+&lt;li&gt;悩みの解決方法に向けたアドバイスの取得&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Easy2Anki - Webから英単語をAnkiへかんたん登録</title>
+      <link>//localhost:1313/easy2anki/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
+      <guid>//localhost:1313/easy2anki/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/easy2anki/toAnki.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Easy2Ankiは英単語をAnkiへ登録しやすくするアプリです。&lt;br&gt;
+単語登録時に英和辞書から自動で意味をピックアップして選択できるようにしたり、文章を入力するとその中から一つ単語を選択して、文章と単語を同時に登録することができます。&lt;/p&gt;
+&lt;p&gt;単語の登録はアプリからだけでなく、Webブラウザで登録したい単語を選択し、共有ボタン(Share Extension)からも行うことができます。&lt;/p&gt;
+&lt;p&gt;登録した単語や設定は同一Apple IDであればiCloudを通じて同期されます。&lt;/p&gt;
+&lt;p&gt;英和辞書については、&lt;a href=&#34;https://kujirahand.com/web-tools/EJDictFreeDL.php&#34;&gt;くじらはんどさんの英和辞典&lt;/a&gt;を使用しています。&lt;/p&gt;
+&lt;p&gt;Ankiへの登録にはiPhone、iPadでは&lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Ankiアプリ&lt;/a&gt;が、MacではAnkiアプリに加え、&lt;a href=&#34;https://ankiweb.net/shared/info/2055492159&#34;&gt;AnkiConnectプラグイン&lt;/a&gt;が必要になります。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shoot! - 1行メモで次につなげる</title>
+      <link>//localhost:1313/shoot/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0900</pubDate>
+      <guid>//localhost:1313/shoot/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Shoot!はチャットのように短い文章を書き込んでいく自分専用のメモです。&lt;/p&gt;
+&lt;p&gt;アイデアを出したり、思ったこと、感じたことをまとめるときに、始めから長い文章を書こうとすると億劫になって上手く書けなかったりするものです。&lt;br&gt;
+そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mnNKR-KlB5A&#34;&gt;https://www.youtube.com/watch?v=mnNKR-KlB5A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最初に作成するメモは1行だけ。&lt;br&gt;
+あとから修正も出来るので、思ったことををどんどんと書いていきましょう。&lt;/p&gt;
+&lt;p&gt;メモを入力するノートは複数作成可能。&lt;br&gt;
+左右のフリックで切り替えて、入力・閲覧が可能です。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp3.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;書き込んだメモの中から、もう少し深くかんがえたいと思ったときには、行数に制限のない詳細なノートを作成することが可能です。&lt;br&gt;
+なぜ、そう思ったのか、それを実行するためにはどうしていけばいいのかなどを書き込んで行くことができます。&lt;/p&gt;
+&lt;p&gt;詳細メモは複数入力可能で、テンプレートも作成することができます。&lt;br&gt;
+有名ななぜなぜ分析、日報の作成、より良くするための実行プランなどを記載していくことができます。&lt;/p&gt;
+&lt;p&gt;書いたメモや詳細ノートは他のメール送信に使用したり、Evernoteなどの他のアプリケーショに転送したりすることも可能です。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp5.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;メモはタグ毎に分類することも可能です。&lt;br&gt;
+この画面からメモの修正や詳細メモ入力も行えます。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp4.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;複数のメモをまとめて操作することが可能です。&lt;br&gt;
+例えば複数のメモを1つにまとめて、Evernoteに転送できたり、&lt;br&gt;
+まとめてタグ付けしたり、ノートを移動したりすることができます。&lt;/p&gt;
+&lt;p&gt;他の用途にも使えるようにも使いやすくなるようバージョンアップをしていく予定です。&lt;br&gt;
+このアプリを通じて、アイデアを膨らませるお手伝いができれば嬉しいです！&lt;/p&gt;
+&lt;p&gt;AppStoreへのリンク&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/qrcode_201812100731.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/jp/app/shoot/id1205701255?mt=8&amp;amp;uo=4&amp;amp;at=10l8yX&#34;&gt;Shoot!&lt;/a&gt;&lt;br&gt;
+Jun Takahashi&lt;br&gt;
+ジャンル： 仕事効率化 - ユーティリティ&lt;br&gt;
+リリース日： 2017-02-19&lt;br&gt;
+価格： 無料&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
