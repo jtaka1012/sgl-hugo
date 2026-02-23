@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Simple gadget life</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/sgl-hugo/</link>
     <description>Recent content on Simple gadget life</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sgl-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feel So - 感情記録・ジャーナリングとAIによる分析</title>
-      <link>//localhost:1313/feelso/</link>
+      <link>http://localhost:1313/sgl-hugo/feelso/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>//localhost:1313/feelso/</guid>
+      <guid>http://localhost:1313/sgl-hugo/feelso/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;FeelSoは、日々の感情を簡単に記録できるシンプルで使いやすいアプリです。&lt;br&gt;
 忙しい日常の中で自分の気持ちを見つめ直し、感情のパターンや変化を振り返る手助けをします。以下の特徴があります。&lt;/p&gt;
-&lt;img src=&#34;//localhost:1313/images/feelso/Frame13.png&#34; alt=&#34;&#34; style=&#34;width:50%;height:auto;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/sgl-hugo/images/feelso/Frame13.png&#34; alt=&#34;&#34; style=&#34;width:50%;height:auto;&#34;&gt;
 &lt;h3 id=&#34;感情を数値で記録&#34;&gt;感情を数値で記録&lt;/h3&gt;
 &lt;p&gt;あいまいな感情もポジティブ、ネガティブの2種類から数値で入力するのみで、手軽に記録することができます。&lt;/p&gt;
 &lt;div style=&#34;display:flex;gap:16px;flex-wrap:wrap;&#34;&gt;
-  &lt;img src=&#34;//localhost:1313/images/feelso/Frame15.png&#34; alt=&#34;&#34; style=&#34;flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;&#34;&gt;
-  &lt;img src=&#34;//localhost:1313/images/feelso/Frame10.png&#34; alt=&#34;&#34; style=&#34;flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/sgl-hugo/images/feelso/Frame15.png&#34; alt=&#34;&#34; style=&#34;flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/sgl-hugo/images/feelso/Frame10.png&#34; alt=&#34;&#34; style=&#34;flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;カレンダーやグラフで簡単に振り返り&#34;&gt;カレンダーやグラフで簡単に振り返り&lt;/h3&gt;
 &lt;p&gt;記録した感情をカレンダー形式で視覚的に振り返ることができ、日々の感情の変化を簡単に把握できます。&lt;/p&gt;
@@ -31,17 +31,17 @@
 &lt;p&gt;限られた感情の選択肢により、直感的に入力できるので、記録が面倒にならず続けやすくなります。感情を定期的に記録することで、自分の気持ちの変化をより深く理解でき、ポジティブな感情を意識的に増やす手助けにもなります。&lt;/p&gt;
 &lt;h3 id=&#34;csvエクスポート対応&#34;&gt;CSVエクスポート対応&lt;/h3&gt;
 &lt;p&gt;記録したデータをCSV形式でエクスポートすることができるため、データ分析や外部ツールでの活用も簡単に行えます。&lt;/p&gt;
-&lt;img src=&#34;//localhost:1313/images/feelso/Frame7.png&#34; alt=&#34;&#34; style=&#34;width:50%;height:auto;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/sgl-hugo/images/feelso/Frame7.png&#34; alt=&#34;&#34; style=&#34;width:50%;height:auto;&#34;&gt;
 &lt;h3 id=&#34;aiがあなたの感情を分析チャットで心のケアも&#34;&gt;AIがあなたの感情を分析。チャットで心のケアも&lt;/h3&gt;
 &lt;p&gt;毎日の気持ちを簡単に記録。AIがあなたの感情の傾向を分析し、より良い対処法を見つけます。&lt;br&gt;
 ホーム画面では直近1週間の記録から一言アドバイスを受けられます。さらに、AIと1日5回までチャットで話せるから、心のモヤモヤを気軽に相談。感情の理解を深め、心の安定をサポートします。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easy2Anki - Webから英単語をAnkiへかんたん登録</title>
-      <link>//localhost:1313/easy2anki/</link>
+      <link>http://localhost:1313/sgl-hugo/easy2anki/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
-      <guid>//localhost:1313/easy2anki/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/easy2anki/toAnki.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/sgl-hugo/easy2anki/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/easy2anki/toAnki.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Easy2Ankiは英単語をAnkiへ登録しやすくするアプリです。&lt;br&gt;
 単語登録時に英和辞書から自動で意味をピックアップして選択できるようにしたり、文章を入力するとその中から一つ単語を選択して、文章と単語を同時に登録することができます。&lt;/p&gt;
 &lt;p&gt;単語の登録はアプリからだけでなく、Webブラウザで登録したい単語を選択し、共有ボタン(Share Extension)からも行うことができます。&lt;/p&gt;
@@ -51,38 +51,38 @@
     </item>
     <item>
       <title>Shoot! - 1行メモで次につなげる</title>
-      <link>//localhost:1313/shoot/</link>
+      <link>http://localhost:1313/sgl-hugo/shoot/</link>
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0900</pubDate>
-      <guid>//localhost:1313/shoot/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/sgl-hugo/shoot/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Shoot!はチャットのように短い文章を書き込んでいく自分専用のメモです。&lt;/p&gt;
 &lt;p&gt;アイデアを出したり、思ったこと、感じたことをまとめるときに、始めから長い文章を書こうとすると億劫になって上手く書けなかったりするものです。&lt;br&gt;
 そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。&lt;/p&gt;
 &lt;div style=&#34;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;&#34;&gt;
-  &lt;img src=&#34;//localhost:1313/images/shoot/shoot_temp1.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
-  &lt;img src=&#34;//localhost:1313/images/shoot/shoot_temp2.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/sgl-hugo/images/shoot/shoot_temp1.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/sgl-hugo/images/shoot/shoot_temp2.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;最初に作成するメモは1行だけ。&lt;br&gt;
 あとから修正も出来るので、思ったことををどんどんと書いていきましょう。&lt;/p&gt;
 &lt;p&gt;メモを入力するノートは複数作成可能。&lt;br&gt;
 左右のフリックで切り替えて、入力・閲覧が可能です。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp3.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/shoot/shoot_temp3.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;書き込んだメモの中から、もう少し深くかんがえたいと思ったときには、行数に制限のない詳細なノートを作成することが可能です。&lt;br&gt;
 なぜ、そう思ったのか、それを実行するためにはどうしていけばいいのかなどを書き込んで行くことができます。&lt;/p&gt;
 &lt;p&gt;詳細メモは複数入力可能で、テンプレートも作成することができます。&lt;br&gt;
 有名ななぜなぜ分析、日報の作成、より良くするための実行プランなどを記載していくことができます。&lt;/p&gt;
 &lt;p&gt;書いたメモや詳細ノートは他のメール送信に使用したり、Evernoteなどの他のアプリケーショに転送したりすることも可能です。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp5.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/shoot/shoot_temp5.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;メモはタグ毎に分類することも可能です。&lt;br&gt;
 この画面からメモの修正や詳細メモ入力も行えます。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp4.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/shoot/shoot_temp4.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;複数のメモをまとめて操作することが可能です。&lt;br&gt;
 例えば複数のメモを1つにまとめて、Evernoteに転送できたり、&lt;br&gt;
 まとめてタグ付けしたり、ノートを移動したりすることができます。&lt;/p&gt;
 &lt;p&gt;他の用途にも使えるようにも使いやすくなるようバージョンアップをしていく予定です。&lt;br&gt;
 このアプリを通じて、アイデアを膨らませるお手伝いができれば嬉しいです！&lt;/p&gt;
 &lt;p&gt;AppStoreへのリンク&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/qrcode_201812100731.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sgl-hugo/images/shoot/qrcode_201812100731.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/jp/app/shoot/id1205701255?mt=8&amp;amp;uo=4&amp;amp;at=10l8yX&#34;&gt;Shoot!&lt;/a&gt;&lt;br&gt;
 Jun Takahashi&lt;br&gt;
 ジャンル： 仕事効率化 - ユーティリティ&lt;br&gt;

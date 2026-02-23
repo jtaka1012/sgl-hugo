@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/feelso/</loc>
+    <loc>http://localhost:1313/sgl-hugo/feelso/</loc>
     <lastmod>2025-02-11T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/sgl-hugo/</loc>
     <lastmod>2025-02-11T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>/easy2anki/</loc>
+    <loc>http://localhost:1313/sgl-hugo/easy2anki/</loc>
     <lastmod>2023-07-19T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>/shoot/</loc>
-    <lastmod>2017-02-20T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/sgl-hugo/shoot/</loc>
+    <lastmod>2017-02-19T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/sgl-hugo/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/sgl-hugo/tags/</loc>
   </url>
 </urlset>
