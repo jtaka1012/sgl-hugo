@@ -1,6 +1,6 @@
 +++
 title = "Shoot! - 1行メモで次につなげる"
-date = 2017-02-20T00:00:00+09:00
+date = 2017-02-19T00:00:00+09:00
 draft = false
 +++
 
@@ -11,8 +11,10 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 アイデアを出したり、思ったこと、感じたことをまとめるときに、始めから長い文章を書こうとすると億劫になって上手く書けなかったりするものです。  
 そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。
 
-![](/images/shoot/shoot_temp1.jpg)
-![](/images/shoot/shoot_temp2.jpg)
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;">
+  <img src="/images/shoot/shoot_temp1.jpg" alt="" style="width:100%;height:auto;">
+  <img src="/images/shoot/shoot_temp2.jpg" alt="" style="width:100%;height:auto;">
+</div>
 
 最初に作成するメモは1行だけ。  
 あとから修正も出来るので、思ったことををどんどんと書いていきましょう。

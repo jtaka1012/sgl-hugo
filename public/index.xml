@@ -52,14 +52,16 @@
     <item>
       <title>Shoot! - 1行メモで次につなげる</title>
       <link>//localhost:1313/shoot/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0900</pubDate>
       <guid>//localhost:1313/shoot/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Shoot!はチャットのように短い文章を書き込んでいく自分専用のメモです。&lt;/p&gt;
 &lt;p&gt;アイデアを出したり、思ったこと、感じたことをまとめるときに、始めから長い文章を書こうとすると億劫になって上手く書けなかったりするものです。&lt;br&gt;
 そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp1.jpg&#34;&gt;
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/shoot/shoot_temp2.jpg&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/images/shoot/shoot_temp1.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/images/shoot/shoot_temp2.jpg&#34; alt=&#34;&#34; style=&#34;width:100%;height:auto;&#34;&gt;
+&lt;/div&gt;
 &lt;p&gt;最初に作成するメモは1行だけ。&lt;br&gt;
 あとから修正も出来るので、思ったことををどんどんと書いていきましょう。&lt;/p&gt;
 &lt;p&gt;メモを入力するノートは複数作成可能。&lt;br&gt;
