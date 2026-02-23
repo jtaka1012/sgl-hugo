@@ -3,3 +3,8 @@ title = 'Simple gadget life'
 
 [params]
 ShowBreadCrumbs = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -11,8 +11,6 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 アイデアを出したり、思ったこと、感じたことをまとめるときに、始めから長い文章を書こうとすると億劫になって上手く書けなかったりするものです。  
 そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。
 
-https://www.youtube.com/watch?v=mnNKR-KlB5A
-
 ![](/images/shoot/shoot_temp1.jpg)
 ![](/images/shoot/shoot_temp2.jpg)
 
