@@ -1,0 +1,5 @@
+{{- /*
+Project-level override for theme RSS template.
+Use Hugo's built-in template for compatibility across Hugo versions.
+*/ -}}
+{{ template "_internal/_default/rss.xml" . }}
