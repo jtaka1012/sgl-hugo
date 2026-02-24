@@ -27,7 +27,12 @@ jobs:
 
       - name: Verify built site
         run: |
-          test -f public/index.html
+          if [ ! -f public/index.html ]; then
+            echo "public/index.html was not generated"
+            ls -la public || true
+            find public -maxdepth 2 -type f || true
+            exit 1
+          fi
           if grep -R -n "localhost:1313" public; then
             echo "Found localhost URLs in production artifact"
             exit 1
