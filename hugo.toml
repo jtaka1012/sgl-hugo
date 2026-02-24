@@ -5,7 +5,7 @@ title = 'Simple gadget life'
 ShowBreadCrumbs = false
 
   [params.author]
-  name = "Jun Takahashi"
+  name = "jtaka1012"
   email = "noreply@example.com"
 
 [markup]
