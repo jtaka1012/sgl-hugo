@@ -4,6 +4,10 @@ title = 'Simple gadget life'
 [params]
 ShowBreadCrumbs = false
 
+  [params.author]
+  name = "Jun Takahashi"
+  email = "noreply@example.com"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
