@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --environment production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

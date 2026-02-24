@@ -9,15 +9,15 @@ draft = false
 FeelSoは、日々の感情を簡単に記録できるシンプルで使いやすいアプリです。  
 忙しい日常の中で自分の気持ちを見つめ直し、感情のパターンや変化を振り返る手助けをします。以下の特徴があります。
 
-<img src="/images/feelso/Frame13.png" alt="" style="width:50%;height:auto;">
+<img src="../images/feelso/Frame13.png" alt="" style="width:50%;height:auto;">
 
 ### 感情を数値で記録  
 あいまいな感情もポジティブ、ネガティブの2種類から数値で入力するのみで、手軽に記録することができます。
 
 
 <div style="display:flex;gap:16px;flex-wrap:wrap;">
-  <img src="/images/feelso/Frame15.png" alt="" style="flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;">
-  <img src="/images/feelso/Frame10.png" alt="" style="flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;">
+  <img src="../images/feelso/Frame15.png" alt="" style="flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;">
+  <img src="../images/feelso/Frame10.png" alt="" style="flex:1 1 320px;max-width:calc(50% - 8px);width:100%;height:auto;">
 </div>
 
 ### カレンダーやグラフで簡単に振り返り  
@@ -32,7 +32,7 @@ FeelSoは、日々の感情を簡単に記録できるシンプルで使いや�
 ### CSVエクスポート対応
 記録したデータをCSV形式でエクスポートすることができるため、データ分析や外部ツールでの活用も簡単に行えます。
 
-<img src="/images/feelso/Frame7.png" alt="" style="width:50%;height:auto;">
+<img src="../images/feelso/Frame7.png" alt="" style="width:50%;height:auto;">
 
 ### AIがあなたの感情を分析。チャットで心のケアも  
 毎日の気持ちを簡単に記録。AIがあなたの感情の傾向を分析し、より良い対処法を見つけます。  

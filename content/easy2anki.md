@@ -4,7 +4,7 @@ date = 2023-07-19T00:00:00+09:00
 draft = false
 +++
 
-![](/images/easy2anki/toAnki.png)
+![](../images/easy2anki/toAnki.png)
 
 Easy2Ankiは英単語をAnkiへ登録しやすくするアプリです。  
 単語登録時に英和辞書から自動で意味をピックアップして選択できるようにしたり、文章を入力するとその中から一つ単語を選択して、文章と単語を同時に登録することができます。

@@ -4,7 +4,7 @@ date = 2017-02-19T00:00:00+09:00
 draft = false
 +++
 
-![](/images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg)
+![](../images/shoot/8d6f7d34031b5592204dea3bf7c28e07.jpg)
 
 Shoot!はチャットのように短い文章を書き込んでいく自分専用のメモです。
 
@@ -12,8 +12,8 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 そこで、Shootではまず短い文章で頭の中に浮かんだものを書き出すことに特化しました。
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;">
-  <img src="/images/shoot/shoot_temp1.jpg" alt="" style="width:100%;height:auto;">
-  <img src="/images/shoot/shoot_temp2.jpg" alt="" style="width:100%;height:auto;">
+  <img src="../images/shoot/shoot_temp1.jpg" alt="" style="width:100%;height:auto;">
+  <img src="../images/shoot/shoot_temp2.jpg" alt="" style="width:100%;height:auto;">
 </div>
 
 最初に作成するメモは1行だけ。  
@@ -22,7 +22,7 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 メモを入力するノートは複数作成可能。  
 左右のフリックで切り替えて、入力・閲覧が可能です。
 
-![](/images/shoot/shoot_temp3.jpg)
+![](../images/shoot/shoot_temp3.jpg)
 
 書き込んだメモの中から、もう少し深くかんがえたいと思ったときには、行数に制限のない詳細なノートを作成することが可能です。  
 なぜ、そう思ったのか、それを実行するためにはどうしていけばいいのかなどを書き込んで行くことができます。
@@ -32,12 +32,12 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 
 書いたメモや詳細ノートは他のメール送信に使用したり、Evernoteなどの他のアプリケーショに転送したりすることも可能です。
 
-![](/images/shoot/shoot_temp5.jpg)
+![](../images/shoot/shoot_temp5.jpg)
 
 メモはタグ毎に分類することも可能です。  
 この画面からメモの修正や詳細メモ入力も行えます。
 
-![](/images/shoot/shoot_temp4.jpg)
+![](../images/shoot/shoot_temp4.jpg)
 
 複数のメモをまとめて操作することが可能です。  
 例えば複数のメモを1つにまとめて、Evernoteに転送できたり、  
@@ -48,7 +48,7 @@ Shoot!はチャットのように短い文章を書き込んでいく自分専�
 
 AppStoreへのリンク
 
-![](/images/shoot/qrcode_201812100731.png)
+![](../images/shoot/qrcode_201812100731.png)
 
 [Shoot!](https://itunes.apple.com/jp/app/shoot/id1205701255?mt=8&uo=4&at=10l8yX)  
 Jun Takahashi  
