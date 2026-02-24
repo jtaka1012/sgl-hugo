@@ -3,6 +3,7 @@ title = 'Simple gadget life'
 
 [params]
 ShowBreadCrumbs = false
+hideAuthor = true
 
   [params.author]
   name = "jtaka1012"
