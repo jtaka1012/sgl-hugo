@@ -25,6 +25,14 @@ jobs:
       - name: Build
         run: hugo --minify --config hugo.toml,hugo.production.toml
 
+      - name: Verify built site
+        run: |
+          test -f public/index.html
+          if grep -R -n "localhost:1313" public; then
+            echo "Found localhost URLs in production artifact"
+            exit 1
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
