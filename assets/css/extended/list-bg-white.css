@@ -1,3 +1,40 @@
 .list {
     background: var(--theme);
 }
+
+.apps-table td {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
+
+.apps-table-description {
+    max-width: 72ch;
+}
+
+@media (max-width: 680px) {
+    .apps-table,
+    .apps-table tbody,
+    .apps-table tr,
+    .apps-table td {
+        display: block;
+        width: 100% !important;
+    }
+
+    .apps-table tr {
+        margin-bottom: 24px;
+    }
+
+    .apps-table td {
+        padding-right: 0 !important;
+    }
+
+    .apps-table td img {
+        margin-bottom: 8px;
+    }
+
+    .apps-table-description {
+        max-width: 100%;
+    }
+}
